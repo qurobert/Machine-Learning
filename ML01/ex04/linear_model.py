@@ -1,4 +1,4 @@
-from ex03.my_linear_regression import MyLinearRegression as MyLR
+from ML01.ex03.my_linear_regression import MyLinearRegression as MyLR
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

@@ -1,5 +1,5 @@
 import numpy as np
-from my_linear_regression import MyLinearRegression as MyLR
+from ML01.ex03.my_linear_regression import MyLinearRegression as MyLR
 import unittest
 
 

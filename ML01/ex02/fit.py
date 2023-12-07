@@ -1,5 +1,5 @@
 import numpy as np
-from ex01.vec_gradient import simple_gradient
+from ML01.ex01.vec_gradient import simple_gradient
 
 
 def fit_(x, y, theta, alpha, max_iter):
