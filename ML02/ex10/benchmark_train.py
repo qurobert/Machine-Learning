@@ -30,10 +30,6 @@ Y = data['target'].values.reshape(-1, 1)
 # Split dataset into training and testing sets
 X_train, X_test, y_train, y_test = data_spliter(X, Y, 0.8)
 
-# Normalize features
-X_train_normalized = normalize(X_train)
-X_test_normalized = normalize(X_test)
-
 # Initialize a dictionary to store models and their respective MSEs
 model_params = {}
 mse_scores = {}
