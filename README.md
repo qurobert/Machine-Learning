@@ -1,5 +1,5 @@
 # 42_ml_modules #
-One week to learn basics in Machine Learning! 🤖  This project is a Machine Learning bootcamp created by 42 AI. #
+One week to learn basics in Machine Learning! 🤖  This project is a Machine Learning bootcamp created by 42 AI.
 
 Forewords: The subjects were made by 42AI and are now a part of the 42 curriculum thanks to the hard work of authors.
 
