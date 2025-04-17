@@ -8,7 +8,7 @@ Get started with some linear algebra and statistics
 
 Sum, mean, variance, standard deviation, vectors and matrices operations. Hypothesis, model, regression, cost function.
 
-## Module02 - Univariate Linear Regression
+## Module01 - Univariate Linear Regression
 Implement a method to improve your model's performance: gradient descent, and discover the notion of normalization
 
 Gradient descent, linear regression, normalization.
